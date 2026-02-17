@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppConfigurablePolicies xmlns="http://soap.sforce.com/2006/04/metadata">
+    <externalClientApplication>DevOps_Center</externalClientApplication>
+    <isEnabled>true</isEnabled>
+    <isOauthPluginEnabled>false</isOauthPluginEnabled>
+    <label>DevOps_Center_plcy</label>
+    <startPage>Custom</startPage>
+    <startUrl>https://orgfarm-0938dc9b48-dev-ed.develop.lightning.force.com/sf_devops/DevOpsCenter.app</startUrl>
+</ExtlClntAppConfigurablePolicies>

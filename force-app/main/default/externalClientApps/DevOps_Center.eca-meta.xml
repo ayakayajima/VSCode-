@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>support@salesforce.com</contactEmail>
+    <description>開発プロセスとリリースプロセスを管理</description>
+    <distributionState>Local</distributionState>
+    <isProtected>false</isProtected>
+    <label>DevOps Center</label>
+    <logoUrl>https://tinyurl.com/doc-icon</logoUrl>
+    <orgScopedExternalApp>00Dfj00000EnteP:DevOps_Center</orgScopedExternalApp>
+</ExternalClientApplication>
